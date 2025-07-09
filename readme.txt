@@ -1,6 +1,6 @@
 # Chicken Adventure – C++ & SFML Game Project
 
-This repository contains my second semester university project: a simple 2D shooting game developed using **C++** and **SFML (Simple and Fast Multimedia Library)**. The game is inspired by the classic *Chicken Adventure* many of us played during childhood.
+This repository contains my second semester university project: a simple 2D shooting game developed using **C++** and **SFML (Simple and Fast Multimedia Library)**. The game is inspired by the classic *Chicken Invaders* many of us played during childhood.
 
 > **Note:** This project is a snapshot of my early game development experience. It is not a complete game, but represents my learning progress at the time.
 
